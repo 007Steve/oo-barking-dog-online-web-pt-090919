@@ -6,7 +6,7 @@ class Dog
     puts "woof!"
   end
 end
-#class Dog 
+class Dog 
   def name=(setter)
     this_dog_name = setter
   end
