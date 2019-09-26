@@ -3,7 +3,7 @@ class Dog
   def name=(setter)
     this_dog_name = setter
   end
-  def name(getter)
+  def name=(getter)
     this_dog_name = getter
 end
 
